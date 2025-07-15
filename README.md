@@ -1,24 +1,14 @@
-## 🚀 Next Steps
-
-1. ❌ **Update repository name to `pruthviapjk56.github.io`** (Current: `Pruthviapjk56.github.io`)
-2. **Update [`config.json`](https://github.com/pruthviapjk56/Pruthviapjk56.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/pruthviapjk56/Pruthviapjk56.github.io/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/pruthviapjk56/Pruthviapjk56.github.io/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/pruthviapjk56?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/pruthviapjk56/Pruthviapjk56.github.io/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
-
----
-
 # pruthviapjk56 - Developer Portfolio
 
 <div align="left">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://pruthviapjk56.github.io/Pruthviapjk56.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/pruthviapjk56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](undefined)
 
 </div>
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.
 
 ## ✨ Features
 
@@ -47,6 +37,7 @@ Let's connect and build something amazing together!
 
 - 🌐 **Portfolio**: [https://pruthviapjk56.github.io/Pruthviapjk56.github.io](https://pruthviapjk56.github.io/Pruthviapjk56.github.io)
 - 💻 **GitHub**: [https://github.com/pruthviapjk56](https://github.com/pruthviapjk56)
+- 🔗 **LinkedIn**: [undefined](undefined)
 
 ---
 
